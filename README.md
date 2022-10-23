@@ -41,5 +41,4 @@
 
 ![Snake animation](https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg)
 
-- I can do this `All day` 😈
 <img src="https://techcrunch.com/wp-content/uploads/2014/06/surprised-andy.gif" object-fit="contain" align="right" width="100%" >
