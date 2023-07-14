@@ -4,7 +4,7 @@
 - 📫 How to reach me evgkochz@gmail.com
 
 <a href="https://twitter.com/JEvgkoch">
-  <img align="left" alt="Evgkoch B | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Evgkoch B | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1024px-Logo_of_Twitter.svg.png?20220821125553" />
 </a>
 <a href="https://www.linkedin.com/in/eugen-kochetov/?locale=en_US">
   <img align="left" alt="Preetham's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
