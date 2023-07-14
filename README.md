@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EvgeniyKoch
-- 👀 I’m interested in Full stack developing.
-- 🌱 I’m currently learning NestJs
+- 👀 I’m interested in Full Stack developing.
+- 🌱 I’m currently learning DevOps
 - 📫 How to reach me evgkochz@gmail.com
 
 <a href="https://twitter.com/JEvgkoch">
