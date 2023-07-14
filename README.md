@@ -7,7 +7,7 @@
   <img align="left" alt="Evgkoch B | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/eugen-kochetov/?locale=en_US">
-  <img align="left" alt="Preetham's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Preetham's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=preethamb97.preethamb97)
