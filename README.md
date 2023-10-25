@@ -39,6 +39,6 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=EvgeniyKoch&show_icons=true&theme=gotham" alt="preethamb97" />
 
-![Snake animation](https://github.com/preethamb97/preethamb97/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://techcrunch.com/wp-content/uploads/2014/06/surprised-andy.gif" object-fit="contain" align="right" width="100%" >
